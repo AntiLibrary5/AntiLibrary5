@@ -42,7 +42,7 @@ My research interests revolve around computer vision 👀 :computer: generally. 
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AntiLibrary5&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiLibrary5&show_icons=true&count_private=true&layout=compact&hide_border=true&hide=jupyter%20notebook" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiLibrary5&show_icons=true&count_private=true&layout=compact&hide_border=true&hide=jupyter%20notebook&exclude_repo=Engine-2-ZoneModel-NaturallyAspirated,BEV-modeling-MATLAB,P2_PHEV_MIL_EC3Y4_V1_2017b_GUI_V1" align="center" />
 </div>  
 
 <br/>  
