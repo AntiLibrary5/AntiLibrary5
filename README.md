@@ -35,9 +35,9 @@ My research interests revolve around computer vision 👀 :computer: generally. 
 
 **NeurIPS 2022** [Weinzaepfel P., Leroy V., Lucas T., Brégier R., Cabon Y., Arora V., Antsfeld L., Chidlovskii B., Csurka G., Revaud J. Self-Supervised "Pretraining for 3D Vision Tasks by Cross-View Completion". 2022.](https://arxiv.org/abs/2210.10716)
 
-**MDPI 2021** [Mourlan, O. El, Camp, S., Hannagan, T., \textbf{Arora, V.}, Neuville, M., Kousournas, V. "Path Planning for Autonomous Platoon Formation". 2021. MDPI, Sustainable Transportation – 1110117.](https://www.ifpenergiesnouvelles.com/article/path-planning-autonomous-platoon-formation)
+**MDPI 2021** [Mourlan, O. El, Camp, S., Hannagan, T., Arora, V., Neuville, M., Kousournas, V. "Path Planning for Autonomous Platoon Formation". 2021. MDPI, Sustainable Transportation – 1110117.](https://www.ifpenergiesnouvelles.com/article/path-planning-autonomous-platoon-formation)
 
-**SAE 2019** [Di Russo, M., \textbf{Arora, V.}, Lyu, R., and Ku, J. On-Road and Chassis Dynamometer Evaluation of a Pre-Transmission Parallel PHEV. 2019. SAE 2019-01-0365.](https://www.sae.org/publications/technical-papers/content/2019-01-0365/)
+**SAE 2019** [Di Russo, M., Arora, V., Lyu, R., and Ku, J. On-Road and Chassis Dynamometer Evaluation of a Pre-Transmission Parallel PHEV. 2019. SAE 2019-01-0365.](https://www.sae.org/publications/technical-papers/content/2019-01-0365/)
 <br/>  
 
 <div align="left">
