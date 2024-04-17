@@ -4,7 +4,7 @@
 **AntiLibrary5/AntiLibrary5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-I'm Vaibhav (my friends call me V), an avid Birder  🐦 and a Research Engineer 🖥️: at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a>, based in Grenoble, France :mount_fuji:.
+I'm Vaibhav (my friends call me V), an avid Birder  🐦 and a Research Engineer 🖥️: at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a>, based in Grenoble, France :mount_fuji:, with past experiences at Naver Labs Europe (Grenoble, FR), Ford RIC (Aachen, DE), EcoCAR (Detroit, USA).
 </p>
 
 <p align="center">
@@ -29,15 +29,15 @@ My research interests revolve around computer vision 👀 :computer: generally. 
 </p>
   
 ### Publications
-CVPR 2024 [Keller M., Arora V., Dakri A., Chandhok S., Machann J., Fritsche A., Black M., Pujades S. "HIT: Estimating Internal Human Implicit Tissues from the Body Surface". 2024.](https://hit.is.tue.mpg.de/)
+**CVPR 2024** [Keller M., Arora V., Dakri A., Chandhok S., Machann J., Fritsche A., Black M., Pujades S. "HIT: Estimating Internal Human Implicit Tissues from the Body Surface". 2024.](https://hit.is.tue.mpg.de/)
 
-ICCV 2023 [Weinzaepfel P, Arora V, Cabon Y, Lucas T, Brégier R, Leroy V, Csurka G, Antsfeld L, Chidlovskii B, Revaud J. "Improved Cross-view Completion Pre-training for Stereo Matching". arXiv preprint arXiv:2211.10408. 2023.](https://arxiv.org/abs/2211.10408)
+**ICCV 2023** [Weinzaepfel P, Arora V, Cabon Y, Lucas T, Brégier R, Leroy V, Csurka G, Antsfeld L, Chidlovskii B, Revaud J. "Improved Cross-view Completion Pre-training for Stereo Matching". arXiv preprint arXiv:2211.10408. 2023.](https://arxiv.org/abs/2211.10408)
 
-NeurIPS 2022 [Weinzaepfel P., Leroy V., Lucas T., Brégier R., Cabon Y., \textbf{Arora V.}, Antsfeld L., Chidlovskii B., Csurka G., Revaud J. Self-Supervised "Pretraining for 3D Vision Tasks by Cross-View Completion". 2022.](https://arxiv.org/abs/2210.10716)
+**NeurIPS 2022** [Weinzaepfel P., Leroy V., Lucas T., Brégier R., Cabon Y., Arora V., Antsfeld L., Chidlovskii B., Csurka G., Revaud J. Self-Supervised "Pretraining for 3D Vision Tasks by Cross-View Completion". 2022.](https://arxiv.org/abs/2210.10716)
 
-MDPI 2021 [Mourlan, O. El, Camp, S., Hannagan, T., \textbf{Arora, V.}, Neuville, M., Kousournas, V. "Path Planning for Autonomous Platoon Formation". 2021. MDPI, Sustainable Transportation – 1110117.](https://www.ifpenergiesnouvelles.com/article/path-planning-autonomous-platoon-formation)
+**MDPI 2021** [Mourlan, O. El, Camp, S., Hannagan, T., \textbf{Arora, V.}, Neuville, M., Kousournas, V. "Path Planning for Autonomous Platoon Formation". 2021. MDPI, Sustainable Transportation – 1110117.](https://www.ifpenergiesnouvelles.com/article/path-planning-autonomous-platoon-formation)
 
-SAE 2019 [Di Russo, M., \textbf{Arora, V.}, Lyu, R., and Ku, J. On-Road and Chassis Dynamometer Evaluation of a Pre-Transmission Parallel PHEV. 2019. SAE 2019-01-0365.](https://www.sae.org/publications/technical-papers/content/2019-01-0365/)
+**SAE 2019** [Di Russo, M., \textbf{Arora, V.}, Lyu, R., and Ku, J. On-Road and Chassis Dynamometer Evaluation of a Pre-Transmission Parallel PHEV. 2019. SAE 2019-01-0365.](https://www.sae.org/publications/technical-papers/content/2019-01-0365/)
 <br/>  
 
 <div align="left">
