@@ -54,11 +54,14 @@ My research interests revolve around computer vision 👀 :computer: generally. 
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:gi1287@wayne.edu" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail  style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=outlook  style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.linkedin.com/in/vaibhav-arora-954ab8138/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin  style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.instagram.com/theboxtroll5?igsh=MWx3cHVybWcyNHBsbA==" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram  style="margin-bottom: 5px;" />
+</a> 
 <a href="https://github.com/AntiLibrary5" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=AntiLibrary5&&style=for-the-badge" alt=profileviews  style="margin-bottom: 5px;" />
 </a>  
