@@ -4,7 +4,7 @@
 **AntiLibrary5/AntiLibrary5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-I'm Vaibhav (my friends call me V), an avid Birder  🐦 and a Research Engineer 🖥️: at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a>, based in Grenoble, France :mount_fuji:, with past experiences at Naver Labs Europe (Grenoble, FR), Ford RIC (Aachen, DE), EcoCAR (Detroit, USA).
+I'm Vaibhav (my friends call me V), an avid Birder  🐦 and a Research Engineer 🖥️: at Inria's <a href="https://team.inria.fr/morpheo/team/">MORPHEO</a> team, based in Grenoble, France :mount_fuji:, with past experiences at Naver Labs Europe (Grenoble, FR), Ford RIC (Aachen, DE), EcoCAR (Detroit, USA).
 </p>
 
 <p align="center">
