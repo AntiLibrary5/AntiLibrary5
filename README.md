@@ -42,7 +42,7 @@ My research interests revolve around computer vision 👀 :computer: generally. 
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AntiLibrary5&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiLibrary5&show_icons=true&count_private=true&layout=compact&hide_border=true&hide=Jupyter Notebook" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiLibrary5&show_icons=true&count_private=true&layout=compact&hide_border=true&hide=JupyterNotebook" align="center" />
 </div>  
 
 <br/>  
